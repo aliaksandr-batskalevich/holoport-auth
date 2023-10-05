@@ -1,0 +1,1 @@
+export const dateNowUTC = () => new Date().toUTCString();

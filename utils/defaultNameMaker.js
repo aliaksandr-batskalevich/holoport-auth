@@ -1,0 +1,1 @@
+export const defaultNameMaker = email => email.split('@', 1);
